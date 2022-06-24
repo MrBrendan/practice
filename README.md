@@ -1,2 +1,1 @@
-"# practice" 
-"# practice" 
+Учу Python, решаю задачи
